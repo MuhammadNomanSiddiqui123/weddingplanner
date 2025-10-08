@@ -1,0 +1,21 @@
+
+#btnss{
+    width: 200px;
+    border:none;
+     border-radius: 3px;
+    color: white;
+    box-shadow: 0px 1rem 2.5rem -0.5rem black;
+    font-size: 15px;
+    color: white;
+    /* align-items: center; 
+    justify-content: center; */
+}
+#btnss{
+    background-color:rgba(164, 114, 44, 0.6);
+  }
+  #btnss:hover{
+     background-color:rgba(113, 112, 109, 0.364);
+  }
+  #body{
+    margin-left: 20px;
+  }

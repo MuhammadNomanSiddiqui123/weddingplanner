@@ -1,0 +1,131 @@
+/* .footer {
+   background-color: rgba(164, 114, 44, 0.6);
+}
+
+.menu li {
+   list-style-type: none;
+   text-decoration: none;
+}
+.vline{
+   border-left: 2px solid black;
+   height: 200px;
+}
+.menu1{
+   display: flex;
+   align-items: center;
+   margin-left: 20px;
+   gap: 30px;
+} */
+.wedding-footer {
+   background-color: rgba(164, 114, 44, 0.6);
+   /* padding: 40px 20px; */
+   height: 330px;
+   font-family: 'Georgia', serif;
+   border-top: 1px solid #e2dcd9;
+}
+
+.footer-links li {
+   text-decoration: none;
+   list-style-type: none;
+}
+
+.footer-links li a:hover {
+   color: #d19c97;
+}
+
+.footer-socials {
+   margin-left: 150px;
+   /* gap: 60px; */
+}
+
+.footer-socials img a {
+   gap: 60px;
+}
+
+.vline {
+   border-left: 1px solid black;
+   margin-top: 30px;
+   height: 190px;
+}
+
+.vline {
+   margin-left: 150px;
+}
+
+.line {
+   margin-left: 90px;
+}
+
+.menu {
+   margin-left: 20px;
+   margin-top: 20px;
+}
+
+.img img {
+   width: 40px;
+   gap: 20px;
+}
+
+.logo img {
+   width: 290px;
+   margin-left: 90px;
+}
+
+/* 
+.pic {
+ display: flex;
+   margin-top: 30px;
+   margin-left: 30px;
+   gap: 30px;
+   width: 500px;
+}  */
+.pic-1 img {
+   width: 100px;
+   height: 100px;
+   margin-top: 10px;
+   margin-left: 60px;
+}
+
+.pic-pic {
+   display: flex;
+}
+
+.pic-2 img {
+   margin-left: 10px;
+   margin-top: 10px;
+   height: 100px;
+   width: 100px;
+}
+
+.pic-3 img {
+   margin-left: 60px;
+   height: 100px;
+   width: 100px;
+   margin-top: 10px;
+}
+
+.pic-4 img {
+   margin-left: 10px;
+   height: 100px;
+   width: 100px;
+   margin-top: 10px;
+}
+
+.pic-pic-1 {
+   display: flex;
+}
+
+.container {
+   margin-top: 10px;
+   display: flex;
+   gap: 20px;
+}
+
+.follow {
+   margin-left: 50px;
+}
+
+.h3 {
+   display: flex;
+   margin-left: 350px;
+}
